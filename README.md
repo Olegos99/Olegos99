@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olegos99
 - 👀 I’m interested in Unity 3D, C#, VR, Full Stack Web
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Unity 3D projects and Full Stack Apps
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Unity 3D projects
 - 📫 How to reach me: mail - oleg.magarill@gmail.com
 
 <!---
